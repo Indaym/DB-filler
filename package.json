@@ -1,0 +1,9 @@
+{
+  "name": "PG-filler",
+  "version": "1.0.0",
+  "description": "fill a PG database with preset data",
+  "main": "index.js",
+  "repository": {},
+  "author": "djavrell <kevin.prouteau@epitech.eu>",
+  "license": "MIT"
+}
