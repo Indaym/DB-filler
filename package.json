@@ -21,7 +21,9 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "update-notifier": "^2.1.0",
-    "waterline": "^0.11.11",
-    "waterline-postgresql": "^0.14.8"
+    "waterline": "^0.11.11"
+  },
+  "scripts": {
+    "start": "node bin/filler"
   }
 }
