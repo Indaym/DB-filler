@@ -1,10 +1,16 @@
 {
-  "models": "",
-  "config": "",
-  "description": {
-    "fill-1": {
-      "models": [],
-      "data": {}
+  "folder-where-store-the-models": "",
+  "config-for-waterline": "",
+  "description-oh-what-to-do": {
+    "name-fill": {
+      "models-use-in-loading": [],
+      "data-to-load": {
+        "order-in loading_name-models": [],
+        "data": [
+          {},
+          {}
+        ]
+      }
     }
   }
 }
