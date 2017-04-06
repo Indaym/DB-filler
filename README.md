@@ -18,7 +18,7 @@ app
 
 #### filler.json
 
-```json
+```
 {
   "modelsDir": "models",            // location of the models directory from the project root 
   "configFile": "config/config",    // location of the config file for waterline from the project root
@@ -55,7 +55,7 @@ module.exports = waterline.Collection.extend({
 ```
 
 #### package.json
-```json
+```
 {
   "scripts": {
     /* ... */
