@@ -4,7 +4,7 @@
 
 #### Instal
 
-> npm i --save-dev https://github.com/Indaym/DB-filler
+> npm i --save-dev Indaym/DB-filler
 
 ##### Folder structure
 ```
