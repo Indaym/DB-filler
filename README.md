@@ -1,6 +1,11 @@
 # DB-Filler
 
 ## How to use
+
+#### Instal
+
+> npm i --save-dev https://github.com/Indaym/DB-filler
+
 ##### Folder structure
 ```
 app
