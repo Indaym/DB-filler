@@ -1,11 +1,27 @@
+<a id="markdown-db-filler" name="db-filler"></a>
 # DB-Filler
 
+<!-- TOC -->
+
+- [DB-Filler](#db-filler)
+  - [How to use](#how-to-use)
+      - [Instal](#instal)
+        - [Folder structure](#folder-structure)
+      - [filler.json](#fillerjson)
+      - [Models folder](#models-folder)
+      - [package.json](#packagejson)
+
+<!-- /TOC -->
+
+<a id="markdown-how-to-use" name="how-to-use"></a>
 ## How to use
 
+<a id="markdown-instal" name="instal"></a>
 #### Instal
 
 > npm i --save-dev Indaym/DB-filler
 
+<a id="markdown-folder-structure" name="folder-structure"></a>
 ##### Folder structure
 ```
 app
@@ -21,6 +37,7 @@ app
 
 ```
 
+<a id="markdown-fillerjson" name="fillerjson"></a>
 #### filler.json
 
 ```
@@ -36,6 +53,7 @@ app
 }
 ```
 
+<a id="markdown-models-folder" name="models-folder"></a>
 #### Models folder
 
 * index.js
@@ -59,6 +77,7 @@ module.exports = waterline.Collection.extend({
 });
 ```
 
+<a id="markdown-packagejson" name="packagejson"></a>
 #### package.json
 ```
 {
